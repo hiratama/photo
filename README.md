@@ -1,28 +1,15 @@
 # README
 
-railsGirls Railsチュートリアルを参考にして作成中。
+### 写真管理
+ ※　webアプリを作成中
 
+### Ruby version
+* Rails 5.0.5
+* Ruby 2.3.3
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### 参考
+* railsGirls
+  http://railsgirls.jp/
 
-Things you may want to cover:
-
-* Ruby version
-Rails 5.0.5, Ruby 2.3.3
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Railsチュートリアル
+ https://railstutorial.jp/
